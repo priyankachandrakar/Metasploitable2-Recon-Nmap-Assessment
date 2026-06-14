@@ -1,30 +1,30 @@
-# 🛡️ Cybersecurity Lab Projects Portfolio
+# 🛡️ SkillsQuark Cybersecurity Internship
 
 ## 📖 Overview
 
-This repository showcases a collection of hands-on cybersecurity lab projects completed in a controlled and authorized environment. These projects focus on reconnaissance, network traffic analysis, vulnerability assessment, and exploitation methodologies using industry-standard security tools.
+This repository contains cybersecurity projects completed during my internship at SkillsQuark. The projects focus on practical security assessment methodologies, network analysis, vulnerability identification, and exploitation techniques using industry-standard cybersecurity tools.
 
-The purpose of these assessments is to strengthen practical cybersecurity skills, understand real-world attack surfaces, and improve security analysis and reporting capabilities.
+The internship provided hands-on exposure to real-world security concepts and strengthened my understanding of penetration testing workflows, security analysis, and professional reporting practices.
 
 ---
 
-# 📂 Projects Included
+# 🎯 Internship Projects
 
-## 1️⃣ Reconnaissance & Nmap Assessment
+## 🔍 Task 1 – Reconnaissance & Nmap Assessment
 
 ### Objective
 
-Perform network reconnaissance and identify exposed services within the Metasploitable 2 lab environment.
+Perform reconnaissance and identify exposed services within the Metasploitable 2 lab environment.
 
-### Activities Performed
+### Key Activities
 
 * Host Discovery
 * Port Scanning
 * Service Enumeration
 * Version Detection
 * OS Fingerprinting
-* Attack Surface Mapping
-* CVE & CWE Analysis
+* Attack Surface Analysis
+* CVE & CWE Mapping
 * CVSS Risk Assessment
 * OWASP Top 10 Mapping
 
@@ -36,21 +36,21 @@ Perform network reconnaissance and identify exposed services within the Metasplo
 
 ---
 
-## 2️⃣ Network Sniffing & Traffic Analysis
+## 🌐 Task 2 – Network Sniffing & Traffic Analysis
 
 ### Objective
 
-Capture and analyze network traffic to identify insecure communications and sensitive information exposure.
+Analyze network traffic and identify insecure communication patterns using packet analysis techniques.
 
-### Activities Performed
+### Key Activities
 
-* Packet Capture
-* HTTP Traffic Analysis
+* Packet Capture & Analysis
+* HTTP Traffic Inspection
 * TCP Stream Analysis
 * Credential Exposure Identification
-* Traffic Inspection
-* Risk Assessment
+* Security Risk Assessment
 * OWASP Mapping
+* Remediation Recommendations
 
 ### Tools Used
 
@@ -61,20 +61,20 @@ Capture and analyze network traffic to identify insecure communications and sens
 
 ---
 
-## 3️⃣ Exploitation Basics Assessment
+## ⚔️ Task 3 – Exploitation Basics Assessment
 
 ### Objective
 
 Identify and validate vulnerabilities through controlled exploitation techniques.
 
-### Activities Performed
+### Key Activities
 
 * Service Enumeration
 * Vulnerability Identification
 * Exploitation Validation
 * Meterpreter Session Establishment
 * Post-Exploitation Analysis
-* Risk Evaluation
+* Security Risk Assessment
 * Security Recommendations
 
 ### Tools Used
@@ -99,21 +99,31 @@ Identify and validate vulnerabilities through controlled exploitation techniques
 
 ---
 
-# 🎯 Skills Demonstrated
+# 📂 Repository Contents
+
+* Task1_Recon & Nmap.pdf
+* task2_NetworkSniffing.pdf
+* Task3_ExploitationBasics.pdf
+
+Each report includes methodology, findings, risk analysis, CVE mapping, CVSS scoring, and remediation recommendations.
+
+---
+
+# 🎓 Skills Developed
 
 ✅ Network Reconnaissance
 
 ✅ Service Enumeration
 
-✅ Vulnerability Assessment
-
 ✅ Network Traffic Analysis
+
+✅ Vulnerability Assessment
 
 ✅ Exploitation Methodologies
 
-✅ Risk Analysis
-
 ✅ Security Documentation
+
+✅ Risk Analysis
 
 ✅ CVE, CWE & CVSS Analysis
 
@@ -121,23 +131,17 @@ Identify and validate vulnerabilities through controlled exploitation techniques
 
 ---
 
-# 📄 Reports
+# 🙏 Acknowledgement
 
-This repository contains detailed assessment reports for:
-
-* Reconnaissance & Nmap Assessment
-* Network Sniffing & Traffic Analysis
-* Exploitation Basics Assessment
-
-Each report includes methodology, findings, risk analysis, CVE mapping, CVSS scoring, and remediation recommendations.
+Special thanks to **SkillsQuark** for providing valuable mentorship, practical cybersecurity training, and hands-on learning opportunities throughout the internship.
 
 ---
 
 # 🔒 Disclaimer
 
-All activities documented in this repository were conducted in a controlled and authorized laboratory environment for educational, training, and cybersecurity research purposes only.
+All activities documented in this repository were performed in a controlled and authorized laboratory environment for educational and cybersecurity research purposes only.
 
-No unauthorized systems, networks, applications, or third-party assets were targeted during any phase of these assessments.
+No unauthorized systems, networks, or third-party assets were targeted during these assessments.
 
 ---
 
@@ -147,7 +151,10 @@ No unauthorized systems, networks, applications, or third-party assets were targ
 
 Cybersecurity Enthusiast | Bug Bounty Hunter | Security Researcher
 
+LinkedIn: [www.linkedin.com/in/priyankachandrakar](http://www.linkedin.com/in/priyankachandrakar)
+
 ---
 
-⭐ Thank you for visiting this repository. Feedback and suggestions are always welcome.
+⭐ Thank you for visiting this repository.
+
 
